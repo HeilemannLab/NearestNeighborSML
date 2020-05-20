@@ -41,9 +41,9 @@ plotly: 4.5.0
 tqdm: 4.42.0
 
 ## Literature
-FGFR Methods Paper: 
+FGFR Methods Paper: M. S. Schröder, M.-L. I. E. Harwardt, J. V. Rahm, Y. Li, P. Freund, M. S. Dietz, M. Heilemann, *Imaging the fibroblast growth factor receptor network on the plasma membrane with DNA-assisted single-molecule super-resolution microscopy*, Methods in Extracellular Vesicles and Mimetics **2020**, DOI: https://doi.org/10.1016/j.ymeth.2020.05.004
 
-Picasso: J. Schnitzbauer, M.T. Strauss, T. Schlichthaerle, F. Schueder, R. Jungmann,
+Picasso: J. Schnitzbauer, M. T. Strauss, T. Schlichthaerle, F. Schueder, R. Jungmann,
 *Super-Resolution Microscopy with DNA-PAINT*, Nature Protocols **2017**, *12*, 1198-1228; DOI: https://doi.org/10.1038/nprot.2017.024
 
 ## Web
